@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Tesla Eyes app
+Developed by a Tesla's owner, that want to see the sentry mode event and dash cam clips like on the Tesla player.
 
-You can use the [editor on GitHub](https://github.com/Adjilino/tesla-eyes-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This app still in progress. Missing some optimization, bugs fixing and improvements of the experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's totally free and if you can [buy me a coffee](https://www.buymeacoffee.com/adjilino) I will be super grateful
 
-### Markdown
+Hope you enjoy this app.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**How to use**
 
-```markdown
-Syntax highlighted code block
+The button "Add capture" open the *folder explorer* or *finder* and you should select the folder that contains the videos. 
+The read process should take a little time, the app is reading the all files to get the all information needed. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adjilino/tesla-eyes-app/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
