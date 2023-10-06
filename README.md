@@ -3,3 +3,6 @@ Developed by a Tesla's owner, that want to see the sentry mode event and dash ca
 
 This app was converted and optimized to a webpage
 https://tesla-eyes.app/
+
+# Now open source
+https://github.com/Adjilino/tesla-eyes
